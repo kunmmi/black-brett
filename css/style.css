@@ -2609,6 +2609,9 @@ textarea.w-select {
     margin-left: auto;
     margin-right: auto;
     display: flex;
+    justify-content: center;
+    align-content: center;
+    object-position: center;
 }
 
 .section-4 {
