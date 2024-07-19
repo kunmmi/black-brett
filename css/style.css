@@ -2219,6 +2219,19 @@ textarea.w-select {
     border-bottom: 3px solid #000;
 }
 
+
+
+
+.hero__container {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 2.5rem;
+    
+}
+
 .nav-link,
 .nav-link-2,
 .nav-link-3 {
